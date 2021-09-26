@@ -81,3 +81,11 @@ www.wip4.adobe.com
 agsupdate.adobe.com
 genuine.adobe.com
 na1e.services.adobe.com
+uds.licenses.adobe.com
+ans.oobesaas.adobe.com
+ims-na1.adobelogin.com
+acrobatoauth.adobe.com
+adobeid-na1.services.adobe.com
+ims-prod06.adobelogin.com
+cc-api-behance.adobe.io
+files.acrobat.com
