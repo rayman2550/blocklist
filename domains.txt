@@ -89,3 +89,5 @@ adobeid-na1.services.adobe.com
 ims-prod06.adobelogin.com
 cc-api-behance.adobe.io
 files.acrobat.com
+acroipm2.adobe.com
+armmf.adobe.com
