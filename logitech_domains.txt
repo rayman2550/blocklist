@@ -1,0 +1,4 @@
+ghub.logitech.io	
+datapipeline.logitech.io
+util.logitech.io
+updates.ghub.logitechg.com
